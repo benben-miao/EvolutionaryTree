@@ -19,4 +19,5 @@
   * [5.1软件列表](5jin-hua-shu-ruan-jian/51ruan-jian-lie-biao.md)
   * [5.2特别注意](5jin-hua-shu-ruan-jian/52zhu-yi-shi-xiang.md)
 * [6.数据分析推断](6shu-ju-fen-xi-tui-duan.md)
+  * [6.1推断基因/蛋白的功](6shu-ju-fen-xi-tui-duan/61tui-duan-ji-56e0-dan-bai-de-gong.md)
 
