@@ -21,4 +21,5 @@
 * [6.数据分析推断](6shu-ju-fen-xi-tui-duan.md)
   * [6.1推断基因/蛋白的功](6shu-ju-fen-xi-tui-duan/61tui-duan-ji-56e0-dan-bai-de-gong.md)
   * [6.2基因/蛋白家族分类](6shu-ju-fen-xi-tui-duan/62ji-56e0-dan-bai-jia-zu-fen-lei.md)
+  * [6.3计算基因分化的年代](6shu-ju-fen-xi-tui-duan/63ji-suan-ji-yin-fen-hua-de-nian-dai.md)
 
