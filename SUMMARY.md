@@ -20,4 +20,5 @@
   * [5.2特别注意](5jin-hua-shu-ruan-jian/52zhu-yi-shi-xiang.md)
 * [6.数据分析推断](6shu-ju-fen-xi-tui-duan.md)
   * [6.1推断基因/蛋白的功](6shu-ju-fen-xi-tui-duan/61tui-duan-ji-56e0-dan-bai-de-gong.md)
+  * [6.2基因/蛋白家族分类](6shu-ju-fen-xi-tui-duan/62ji-56e0-dan-bai-jia-zu-fen-lei.md)
 
