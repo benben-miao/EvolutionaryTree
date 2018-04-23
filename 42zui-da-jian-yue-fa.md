@@ -1,4 +1,4 @@
-###2．最大简约法最大简约法(maximum parsimony method ，MP)
+>###2．最大简约法最大简约法(maximum parsimony method ，MP)
 
 a.最早是基于形态特征分类的需要发展起来的，具体的算法有许多不同版本，其中有些已被广泛地应用于分子进化研究中。
 

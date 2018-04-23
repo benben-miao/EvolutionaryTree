@@ -1,4 +1,4 @@
-###贝叶斯法(Bayesianmethod ， BI)
+>###贝叶斯法(Bayesianmethod ， BI)
 
 a.是近年来发展起来的一种新的利用贝叶斯演绎法预测种系发生史的系统进化分析方法， 它既保留了最大似然法的基本原理， 又引进了马尔科夫链的蒙特卡洛方法(markovchainmontecarloprocess) ，来模拟演化树的较晚期可能性分布，并使计算时间大大缩短。
 

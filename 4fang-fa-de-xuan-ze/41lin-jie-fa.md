@@ -1,4 +1,5 @@
-###邻接法邻接法(neighbor-joiningmethod ， NJ)
+>###邻接法邻接法(neighbor-joiningmethod ， NJ)
+
 a.由Saitou 和Nei(1987) 提出，NJ 法是基于最小进化原理经常被使用的一种算法，它不检验所有可能的拓扑结构， 能同时给出拓扑结构和分支长度。
 
 b.在重建系统发生树时，它取消了UPGMA 法所做的假定，认为在进化分支上，发生趋异的次数可以不同。
