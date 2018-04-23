@@ -10,5 +10,5 @@
   * [2.3进化原则](5ji-chu-zhi-shi/23jin-hua-yuan-ze.md)
   * [2.4系统发育树](23xi-tong-fa-yu-shu.md)
 * [4.进化树构建法](4fang-fa-de-xuan-ze.md)
-  * 4.1邻接法
+  * [4.1邻接法](4fang-fa-de-xuan-ze/41lin-jie-fa.md)
 
