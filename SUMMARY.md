@@ -18,4 +18,5 @@
 * [5.进化树软件](5jin-hua-shu-ruan-jian.md)
   * [5.1软件列表](5jin-hua-shu-ruan-jian/51ruan-jian-lie-biao.md)
   * [5.2特别注意](5jin-hua-shu-ruan-jian/52zhu-yi-shi-xiang.md)
+* [6.数据分析推断](6shu-ju-fen-xi-tui-duan.md)
 
