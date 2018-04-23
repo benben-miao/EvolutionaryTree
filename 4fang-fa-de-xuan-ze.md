@@ -1,12 +1,15 @@
 >###建立进化树的基本方法
 
-UPGMA(类平均法）
+
 
 距离计划树
 
     ME（Minimum Evolution,最小进化法）
     
     NJ（Neighbor-Joining，邻接法）
+    
+    UPGMA(类平均法）
+
 
 MP（Maximum Parsimony，最大简约法）
 
