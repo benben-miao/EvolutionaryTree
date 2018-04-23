@@ -15,4 +15,5 @@
   * [4.3最大似然法](4fang-fa-de-xuan-ze/43zui-da-si-ran-fa.md)
   * [4.4贝叶斯法](4fang-fa-de-xuan-ze/44bei-xie-si-fa.md)
   * [4.5选择合适方法](4fang-fa-de-xuan-ze/45xuan-ze-he-shi-fang-fa.md)
+* [5.进化树软件](5jin-hua-shu-ruan-jian.md)
 
