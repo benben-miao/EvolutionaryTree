@@ -7,4 +7,5 @@
 * [4.进化树构建法](4fang-fa-de-xuan-ze.md)
 * [2.基础知识](5ji-chu-zhi-shi.md)
   * [2.1分子进化](5ji-chu-zhi-shi/21fen-zi-jin-hua.md)
+  * [2.2分子进化的来源](5ji-chu-zhi-shi/22fen-zi-jin-hua-de-lai-yuan.md)
 
