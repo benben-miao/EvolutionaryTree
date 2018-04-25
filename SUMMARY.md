@@ -11,6 +11,7 @@
   * [2.4进化原则](5ji-chu-zhi-shi/23jin-hua-yuan-ze.md)
   * [2.5系统发育树](23xi-tong-fa-yu-shu.md)
   * [2.6拓扑结构](5ji-chu-zhi-shi/25.md)
+  * [2.分子进化的模式特点](5ji-chu-zhi-shi/2fen-zi-jin-hua-de-mo-shi-te-dian.md)
 * [4.进化树构建法](4fang-fa-de-xuan-ze.md)
   * [4.1邻接法](4fang-fa-de-xuan-ze/41lin-jie-fa.md)
   * [4.2最大简约法](42zui-da-jian-yue-fa.md)
